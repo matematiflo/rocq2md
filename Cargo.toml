@@ -1,13 +1,14 @@
 [package]
-name        = "rocq2md"
-version     = "0.1.1"
-edition     = "2024"
-description = "Converts Rocq files to Markdown"
-license     = "MIT"
-keywords    = ["rocq", "markdown"]
-categories  = ["command-line-utilities", "development-tools"]
-repository  = "https://github.com/matematiflo/rocq2md"
-readme      = "README.md"
+name         = "rocq2md"
+version      = "0.1.1"
+edition      = "2021"
+description  = "Converts Rocq files to Markdown"
+license      = "MIT"
+keywords     = ["rocq", "markdown"]
+categories   = ["command-line-utilities", "development-tools"]
+repository   = "https://github.com/matematiflo/rocq2md"
+readme       = "README.md"
+rust-version = "1.70"
 
 [lib]
 name = "rocq2md"

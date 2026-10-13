@@ -12,7 +12,7 @@ A command-line utility written in Rust that converts Rocq files (`.v`) to Markdo
 
 ### Prerequisites
 
-- [Rust](https://www.rust-lang.org/tools/install) 1.86.0 or later.
+- [Rust](https://www.rust-lang.org/tools/install) 1.70.0 or later.
 - Cargo (comes with Rust).
 
 ### Clone the repo and build the package
